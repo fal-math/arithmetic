@@ -1,7 +1,5 @@
 # atirhmetic
 
-# atirhmetic
-
 ## ゆくゆくやりたいこと
 
 LaTeX 形式で入力 → 字句解析 → 計算 → LaTeX 形式で出力
